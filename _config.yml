@@ -19,3 +19,5 @@ github_username:  davidchann
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-leap-day
