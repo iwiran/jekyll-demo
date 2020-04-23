@@ -20,4 +20,4 @@ github_username:  davidchann
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-hacker
