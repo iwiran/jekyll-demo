@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/jekylldemo/</link>
     <atom:link href="http://localhost:4000/jekylldemo/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Dec 2021 18:06:29 +0800</pubDate>
-    <lastBuildDate>Wed, 15 Dec 2021 18:06:29 +0800</lastBuildDate>
+    <pubDate>Wed, 15 Dec 2021 18:30:20 +0800</pubDate>
+    <lastBuildDate>Wed, 15 Dec 2021 18:30:20 +0800</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -87,9 +87,21 @@
     
       <item>
         <title>如何做到的？</title>
-        <description>&lt;p&gt;这是一个建立在GitHub Pages并基于jekyll的静站部署示范，并没有实际内容。&lt;/p&gt;
+        <description>&lt;p&gt;这是一个建立在 GitHub Pages 并基于 jekyll 的静站部署示范，可能并没有太多实际内容。&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.thailycare.com/blog/&quot;&gt;这里&lt;/a&gt;可以了解各类建站技巧。&lt;/p&gt;
+
+&lt;p&gt;###&lt;/p&gt;
+
+&lt;p&gt;[Jekyll][https://jekyllrb.com/] 是一个简单的静态网站生成器，用于生成个人、项目或组织的网站。 它由GitHub联合创始人汤姆·普雷斯顿·沃纳用 Ruby 编写，并根据 MIT 许可证发布。[@Wikipedia][https://en.wikipedia.org/wiki/Jekyll_(software)]&lt;/p&gt;
+
+&lt;p&gt;[GitHub Pages][https://pages.github.com/] 支持 Jekyll（以及 Hexo 等）语法解析，因此常使用 Jekyll 来生成静态网页，并通过 GitHub Pages 发布，以建立免费站点，您现在看到的即是一个例子。&lt;/p&gt;
+
+&lt;p&gt;本地运行 Jekyll，不论是 Linux（如 Ubuntu）还是 Windows 系统，都需要 Ruby 和 gem 环境（也可能还需要更多先决条件），请参考 [Jekyll 的入门文档][https://jekyllrb.com/docs/installation/]。解决各种报错后，直到运行命令 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll server&lt;/code&gt; 出现以下结果。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../images/jekyll-server.png&quot; alt=&quot;jekyll-server&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;最后，您需要将生成的站点 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_site&lt;/code&gt; 目录 Git 到 github 存储库。&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 May 2019 11:24:27 +0800</pubDate>
         <link>http://localhost:4000/jekylldemo/example/2019/05/30/welcome-to-ourblog.html</link>
