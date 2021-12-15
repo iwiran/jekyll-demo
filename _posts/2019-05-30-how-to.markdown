@@ -17,6 +17,6 @@ categories: example
 
 本地运行 Jekyll，不论是 Linux（如 Ubuntu）还是 Windows 系统，都需要 Ruby 和 gem 环境（也可能还需要更多先决条件），请参考 [Jekyll 的入门文档][https://jekyllrb.com/docs/installation/]。解决各种报错后，直到运行命令 `jekyll server` 出现以下结果。
 
-![jekyll-server](../images/jekyll-server.png)
+![jekyll-server](/images/jekyll-server.png)
 
 最后，您需要将生成的站点 `_site` 目录 Git 到 github 存储库。
