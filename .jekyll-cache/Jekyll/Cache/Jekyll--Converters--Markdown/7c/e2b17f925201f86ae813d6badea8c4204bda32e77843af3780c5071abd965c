@@ -1,4 +1,4 @@
-I"�<p>这是一个建立在 GitHub Pages 并基于 Jekyll 的静站部署示范，可能并没有太多实际内容。</p>
+I"�<p>这是一个建立在 GitHub Pages 并基于 Jekyll 的静站部署示范，可能并没有太多实际内容。</p>
 
 <p><a href="http://www.thailycare.com/blog/">这里</a>可以了解各类建站技巧。</p>
 
@@ -12,7 +12,7 @@
 
 <p><img src="/jekylldemo/images/jekyll-server.png" alt="jekyll-server" /></p>
 
-<p>最后，您需要将生成的站点 <code class="language-plaintext highlighter-rouge">_site</code> 目录 Git 到 github 存储库。</p>
+<p>最后，您需要将生成的站点 <code class="language-plaintext highlighter-rouge">_site</code> 目录 Push 到 github 存储库。</p>
 
-<p>最后，您的每篇文章更新都需要放在 <code class="language-plaintext highlighter-rouge">_posts</code> 目录，并重新执行命令 <code class="language-plaintext highlighter-rouge">jekyll server</code> ，然后 Git 一次。</p>
+<p>最后，您的每篇文章更新都需要放在 <code class="language-plaintext highlighter-rouge">_posts</code> 目录，并重新执行命令 <code class="language-plaintext highlighter-rouge">jekyll server</code> ，然后 Push 一次。</p>
 :ET
