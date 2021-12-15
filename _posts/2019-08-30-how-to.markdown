@@ -21,3 +21,4 @@ categories: example
 
 最后，您需要将生成的站点 `_site` 目录 Git 到 github 存储库。
 
+最后，您的每篇文章更新都需要放在 `_posts` 目录，并重新执行命令 `jekyll server` ，然后 Git 一次。
