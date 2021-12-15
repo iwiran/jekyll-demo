@@ -1,7 +1,7 @@
 title: 文章列表
 email: wiranchang@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-这是一个基于Jekyll的demo部署。
+  这是一个基于Jekyll的demo部署。
 baseurl: "/jekylldemo" # the subpath of your site, e.g. /blog
 url: "https://davidchann.github.io" # the base hostname & protocol for your site
 twitter_username: wiran_chang
@@ -9,4 +9,4 @@ github_username:  davidchann
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
