@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/jekyll-demo/</link>
     <atom:link href="http://localhost:4000/jekyll-demo/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Dec 2021 18:08:48 +0800</pubDate>
-    <lastBuildDate>Thu, 16 Dec 2021 18:08:48 +0800</lastBuildDate>
+    <pubDate>Thu, 16 Dec 2021 18:16:25 +0800</pubDate>
+    <lastBuildDate>Thu, 16 Dec 2021 18:16:25 +0800</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -79,14 +79,19 @@
 
 &lt;p&gt;&lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; 支持 Jekyll 语法解析，因此常使用 Jekyll 来生成静态网页，并通过 GitHub Pages 发布，以建立免费站点，您现在看到的即是一个例子。&lt;/p&gt;
 
-&lt;p&gt;需要先在本地运行 Jekyll 生成站点文件。不论是 Linux（如 &lt;a href=&quot;https://jekyllrb.com/docs/installation/ubuntu/&quot;&gt;Ubuntu&lt;/a&gt;）还是 &lt;a href=&quot;https://jekyllrb.com/docs/installation/windows/&quot;&gt;Windows&lt;/a&gt; 系统，都依赖于 Ruby（还需要更多先决条件），具体请参考 &lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot;&gt;Jekyll 的入门文档&lt;/a&gt;。解决各种报错后，直到运行命令 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt; 出现以下结果。&lt;/p&gt;
+&lt;p&gt;需要先在本地运行 Jekyll 生成站点文件。不论是 Linux（如 &lt;a href=&quot;https://jekyllrb.com/docs/installation/ubuntu/&quot;&gt;Ubuntu&lt;/a&gt;）还是 &lt;a href=&quot;https://jekyllrb.com/docs/installation/windows/&quot;&gt;Windows&lt;/a&gt; 系统，都依赖于 Ruby（还需要更多先决条件，相对来说，Linux 系统的开发环境搭建工作更容易），具体请参考 &lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot;&gt;Jekyll 的入门文档&lt;/a&gt;。解决各种报错后，直到运行命令 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt; 出现以下结果。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/jekyll-demo/images/jekyll-server.png&quot; alt=&quot;jekyll-server&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;最后，您需要将生成的站点文件 Push 到 Github 存储库。&lt;/p&gt;
+&lt;p&gt;然后，您需要将生成的站点文件 Push 到 Github 存储库。&lt;/p&gt;
 
 &lt;p&gt;您的每篇新文章都需要放在 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; 目录，并重新执行命令 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt; ，然后 Push 一次。因为 GitHub 存储库里只是您的网站文件，而不是 Jekyll 本身。&lt;/p&gt;
 
+&lt;p&gt;如果您想更进一步优化您的站点，还需要研究项目根目录下的 ` _config.yml&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;  和 &lt;/code&gt; Gemfile`  两个文件设置、Jekyll 的&lt;a href=&quot;https://jekyllrb.com/resources/&quot;&gt;主题和插件资源&lt;/a&gt;，以及更多 HTML + CSS + JS 前端开发技术。&lt;/p&gt;
+
+&lt;p&gt;当然也可以简单设置，更专注于内容创作。&lt;/p&gt;
+
+&lt;p&gt;祝您好运！&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 Aug 2019 11:24:27 +0800</pubDate>
         <link>http://localhost:4000/jekyll-demo/example/2019/08/30/how-to.html</link>
