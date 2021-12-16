@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>文章列表</title>
-    <description>这是一个基于Jekyll的demo部署。
-</description>
-    <link>http://localhost:4000/jekyll-demo/</link>
-    <atom:link href="http://localhost:4000/jekyll-demo/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Dec 2021 12:03:30 +0800</pubDate>
-    <lastBuildDate>Thu, 16 Dec 2021 12:03:30 +0800</lastBuildDate>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 16 Dec 2021 18:03:46 +0800</pubDate>
+    <lastBuildDate>Thu, 16 Dec 2021 18:03:46 +0800</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -15,8 +14,8 @@
         <description>&lt;p&gt;新年快乐，2022！&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 Dec 2021 16:27:10 +0800</pubDate>
-        <link>http://localhost:4000/jekyll-demo/categories/2021/12/15/happy-new-year.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-demo/categories/2021/12/15/happy-new-year.html</guid>
+        <link>http://localhost:4000/categories/2021/12/15/happy-new-year.html</link>
+        <guid isPermaLink="true">http://localhost:4000/categories/2021/12/15/happy-new-year.html</guid>
         
         
         <category>categories</category>
@@ -60,8 +59,8 @@
 &lt;p&gt;December 1, 2021&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Dec 2020 16:27:10 +0800</pubDate>
-        <link>http://localhost:4000/jekyll-demo/pet/2020/12/01/pet.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-demo/pet/2020/12/01/pet.html</guid>
+        <link>http://localhost:4000/pet/2020/12/01/pet.html</link>
+        <guid isPermaLink="true">http://localhost:4000/pet/2020/12/01/pet.html</guid>
         
         
         <category>pet</category>
@@ -78,20 +77,20 @@
 
 &lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; 是一个简单的静态网站生成器，通过标记语言 markdown 或 textile 和模板引擎 liquid 转换生成网页，用于生成个人、项目或组织的网站。 它由 GitHub 联合创始人汤姆·普雷斯顿·沃纳（Tom Preston Werner）用 Ruby 编写，并根据 MIT 许可证发布。&lt;a href=&quot;https://en.wikipedia.org/wiki/Jekyll_(software)&quot;&gt;@Wikipedia&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; 支持 Jekyll（以及 Hexo 等）语法解析，因此常使用 Jekyll 来生成静态网页，并通过 GitHub Pages 发布，以建立免费站点，您现在看到的即是一个例子。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; 支持 Jekyll 语法解析，因此常使用 Jekyll 来生成静态网页，并通过 GitHub Pages 发布，以建立免费站点，您现在看到的即是一个例子。&lt;/p&gt;
 
-&lt;p&gt;本地运行 Jekyll，不论是 Linux（如 Ubuntu）还是 Windows 系统，都依赖于 Ruby 和 gem 环境（可能还需要更多先决条件），请参考 &lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot;&gt;Jekyll 的入门文档&lt;/a&gt;。解决各种报错后，直到运行命令 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt; 出现以下结果。&lt;/p&gt;
+&lt;p&gt;需要先在本地运行 Jekyll 生成站点文件。不论是 Linux（如 &lt;a href=&quot;https://jekyllrb.com/docs/installation/ubuntu/&quot;&gt;Ubuntu&lt;/a&gt;）还是 &lt;a href=&quot;https://jekyllrb.com/docs/installation/windows/&quot;&gt;Windows&lt;/a&gt; 系统，都依赖于 Ruby（还需要更多先决条件），具体请参考 &lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot;&gt;Jekyll 的入门文档&lt;/a&gt;。解决各种报错后，直到运行命令 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt; 出现以下结果。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/jekylldemo/images/jekyll-server.png&quot; alt=&quot;jekyll-server&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/jekyll-demo/images/jekyll-server.png&quot; alt=&quot;jekyll-server&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;最后，您需要将生成的站点文件 Push 到 Github 存储库。&lt;/p&gt;
 
-&lt;p&gt;最后，您的每篇新文章都需要放在 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; 目录，并重新执行命令 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt; ，然后 Push 一次。&lt;/p&gt;
+&lt;p&gt;您的每篇新文章都需要放在 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; 目录，并重新执行命令 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt; ，然后 Push 一次。因为 GitHub 存储库里只是您的网站文件，而不是 Jekyll 本身。&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 30 Aug 2019 11:24:27 +0800</pubDate>
-        <link>http://localhost:4000/jekyll-demo/example/2019/08/30/how-to.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-demo/example/2019/08/30/how-to.html</guid>
+        <link>http://localhost:4000/example/2019/08/30/how-to.html</link>
+        <guid isPermaLink="true">http://localhost:4000/example/2019/08/30/how-to.html</guid>
         
         
         <category>example</category>
@@ -120,8 +119,8 @@
 
 </description>
         <pubDate>Mon, 19 Aug 2019 16:27:10 +0800</pubDate>
-        <link>http://localhost:4000/jekyll-demo/example/2019/08/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-demo/example/2019/08/19/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/example/2019/08/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/example/2019/08/19/welcome-to-jekyll.html</guid>
         
         
         <category>example</category>
